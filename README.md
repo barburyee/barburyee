@@ -1,8 +1,8 @@
 - 👋 Hi, I’m JobKimeli
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ASP.NET framework
+- 🌱 I’m currently learning Angular framework and NodeJS
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me Email: kimeli2191@gmail.com 
+- 📫 How to reach me Email: jobkimelil@gmail.com 
 
 <!---
 barburyee/barburyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
